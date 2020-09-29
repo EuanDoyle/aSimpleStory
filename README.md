@@ -1,1 +1,2 @@
 # aSimpleStory
+A single sentance
