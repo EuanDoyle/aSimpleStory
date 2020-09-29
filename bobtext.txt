@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+HEAD
 akdujhbfodifhnef
-=======
+
 woriuhhgfofn
->>>>>>> 5144848f66cc0e900b42a0ae80f25a9d6be8dbcd
+5144848f66cc0e900b42a0ae80f25a9d6be8dbcd
